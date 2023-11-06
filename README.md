@@ -1,41 +1,53 @@
+<h1 align="center">🦁 Lion</h1>
+
 <p align="center">
-  <b>Hi there! 👋 I'm Lion</b><br>
   <a href="https://discord.gg/stoppados">Discord</a> |
   <a href="https://www.youtube.com/channel/UCmxl6u47AZmJC1x7RC_JdCw">YouTube</a> |
   <a href="https://www.tiktok.com/@lionfivem">TikTok</a> |
-  <a href="https://fir3.cc/lion7">Web</a>
+  <a href="https://fir3.cc/lion7">Website</a>
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1083107952707244062/1134249451884650548/c7d85d3af0e5d9cf8f63b41e43d11831.gif" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg" alt="Lion's Avatar" width="250" height="260">
+  <img src="https://cdn.discordapp.com/attachments/1083107952707244062/1134249451884650548/c7d85d3af0e5d9cf8f63b41e43d11831.gif" alt="Lion's Avatar" width="250" height="260" align="left">
 </p>
 
-```bash
+---
 
-> They fear the Lion!
+<p align="center">👋 Hi, I'm Lion</p>
 
+---
 
-```
-<img src="https://cdn.discordapp.com/attachments/1083107952707244062/1134249451884650548/c7d85d3af0e5d9cf8f63b41e43d11831.gif" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
-
-```py
-
-
-Lion @github
+```markdown
+### About Me
 ----------------
 
-Languages  :  c++ and c# Developer.
-  
-```
+I'm a passionate developer with expertise in C# and C++. I enjoy exploring the world of programming and game development while also delving into web development. You can often find me creating exciting and challenging projects.
 
-𝙑 𝙞 𝙚 𝙬
-<img src="https://profile-counter.glitch.me/%7BSlashWebt%7D/count.svg" style="max-width: 100%;">
+### Current Project - "Phantom Hunt" 👾
+----------------
 
+I'm currently working on my game project "Phantom Hunt." In this game, you'll embark on an adventure in a dark world, hunting ghosts and solving mysterious puzzles.
 
+- 🎯 Objective: Defeat all the ghosts and save the city
+- 🕹️ Technologies: Unity (C#), OpenGL (C++)
+- 🎉 [Play Now](link_to_your_game)
 
---------------------------------------------------------------------------			
-- <p align="center"> Hi, I’m @Lion
+### Spooky Projects
+----------------
 
---------------------------------------------------------------------------
+Here are some of my recent projects, filled with mystery and challenge:
 
+- [Spooky Project 1](link_to_project_1): A terrifying description of the project.
+- [Spooky Project 2](link_to_project_2): Another enigmatic adventure.
 
+Feel free to explore my repositories to uncover more secrets!
+
+### GitHub Stats
+----------------
+
+- 🌟 Starred Repositories: 5
+- 📦 Total Repositories: 20
+- 📂 Contributions: 200+
+
+```markdown
+> They fear the Lion!
