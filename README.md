@@ -23,13 +23,6 @@ Languages  :  c# - c++ - py
   
 ```
 
-𝙑 𝙞 𝙚 𝙬
-<img src="https://profile-counter.glitch.me/%7BSlashWebt%7D/count.svg" style="max-width: 100%;">
-
-
-
-
-
 
 
 ------------												
