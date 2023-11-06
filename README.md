@@ -15,16 +15,14 @@ Lion @github
 ----------------
 
 Languages  :  c# - c++ - py
-
   
 ```
 
-
-
-------------												
+--------------------------------------
+										
  <p align="center"> Hi, I’m @Lion
 
------------------
+-------------------------------------
 
 <!---
 Slash Web/Lion Web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
