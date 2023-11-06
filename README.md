@@ -22,7 +22,7 @@ Languages  :  c# - c++ - py
 
 
 ------------												
-- <p align="center"> Hi, I’m @Lion
+ <p align="center"> Hi, I’m @Lion
 
 -----------------
 
