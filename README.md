@@ -17,16 +17,16 @@ Lion @github
 Languages  :  c# - c++ - py
   
 ```
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 --------------------------------------
 										
  <p align="center"> Hi, I’m @Lion
 
 -------------------------------------
-
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 <!---
 Slash Web/Lion Web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
