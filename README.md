@@ -12,7 +12,8 @@
 > They fear the Lion!
 
 Lion @github
-----------------
+--------------
+```py
 
 • 🤖 Software Automation
 • 🕸 Web Development
