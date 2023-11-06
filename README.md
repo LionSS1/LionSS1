@@ -14,8 +14,8 @@
 Lion @github
 ----------------
 
-- 🤖 Software Automation
-- 🕸 Web Development
+• 🤖 Software Automation
+• 🕸 Web Development
   
 ```
 
