@@ -14,7 +14,7 @@
 ◦ Lion @github
 
 ```
-```js
+```csharp
 
 • 🤖 Software Automation.
 • 👨🏻‍💻 Learning Web development.
