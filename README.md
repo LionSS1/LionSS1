@@ -16,8 +16,8 @@
 ```
 ```py
 
-• 🤖 Software Automation
-• 🕸 Web Development
+• 🤖 Software Automation.
+• 👨🏻‍💻 Learning Web development.
   
 ```
 
