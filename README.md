@@ -11,8 +11,7 @@
 
 > They fear the Lion!
 
-```
-```py
+py
 
 
 Lion @github
