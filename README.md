@@ -21,8 +21,6 @@ Lion @github
 ----------------
 
 Languages  :  c# - c++ - py
-Developer  :  fir3.cc
-Né segredo
 
   
 ```
