@@ -14,7 +14,8 @@
 Lion @github
 ----------------
 
-Languages  :  c# - c++ - py
+- 🤖 Software Automation
+- 🕸 Web Development
   
 ```
 
