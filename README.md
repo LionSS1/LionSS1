@@ -9,7 +9,7 @@
 
 ```bash
 
-> They fear the Slash!
+> They fear the Lion!
 
 ```
 <img src="https://cdn.discordapp.com/attachments/1083107952707244062/1134249451884650548/c7d85d3af0e5d9cf8f63b41e43d11831.gif" align="left" src="https://media.discordapp.net/attachments/975703159982923848/995337889321844886/1657350460774.jpg?width=682&height=682" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="260">
@@ -17,7 +17,7 @@
 ```py
 
 
-Slash @github
+Lion @github
 ----------------
 
 Languages  :  c# - c++ - py
@@ -37,11 +37,11 @@ Né segredo
 
 
 ------------												
-- <p align="center"> Hi, I’m @slash
+- <p align="center"> Hi, I’m @Lion
 
 -----------------
 
 <!---
-Slash Web/Slash Web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Slash Web/Lion Web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
