@@ -9,10 +9,10 @@
 
 ```py
 
-> They fear the Lion!
+• They fear the Lion!
 
-Lion @github
---------------
+• Lion @github
+
 ```
 ```py
 
