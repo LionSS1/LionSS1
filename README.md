@@ -1,8 +1,9 @@
 <p align='center'>
-  <b>Hi 👋, I'm Slash</b><br>
-  <a href="https://discord.gg/aBVmH2faj8">Discord</a> |
-  <a href="https://www.youtube.com/channel/UCdpJw0M-G5oXwZFTwtWMUHg">YouTube</a> |
-  <a href="https://fir3.cc/slash">Web</a> |
+  <b>Hi 👋, I'm Lion</b><br>
+  <a href="https://discord.gg/stoppados">Discord</a> |
+  <a href="https://www.youtube.com/channel/UCmxl6u47AZmJC1x7RC_JdCw">YouTube</a> |
+  <a href="https://www.tiktok.com/@lionfivem">TikTok</a> |
+   <a href="https://fir3.cc/lion7">Web</a> |
 
 
 
