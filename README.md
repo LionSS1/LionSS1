@@ -7,7 +7,7 @@
 
 
 
-```bash
+```py
 
 > They fear the Lion!
 
