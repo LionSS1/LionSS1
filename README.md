@@ -20,7 +20,7 @@
 Lion @github
 ----------------
 
-Languages  :  c++ - c# - py
+Languages  :  c++ and c# Developer.
   
 ```
 
