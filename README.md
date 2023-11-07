@@ -34,18 +34,20 @@
 --------------------------------------
 
 <div align='center'>
-  <div style='display: inline-block; margin: 10px;'>
+  <div style='margin: 10px; display: inline-block;'>
     <a href='https://simpleicons.now.sh/twitch/6366f1'>
       <img alt='Twitch' width='20px' src='https://simpleicons.vercel.app/twitch/6366f1' />
     </a>
+  </div>
 
-
-  <div style='display: inline-block; margin: 10px;'>
+  <div style='margin: 10px; display: inline-block;'>
     <a href='https://simpleicons.now.sh/twitch/6366f1'>
       <img alt='Twitch' width='20px' src='https://simpleicons.vercel.app/twitch/6366f1' />
     </a>
   </div>
 </div>
+
+
 
  
 
