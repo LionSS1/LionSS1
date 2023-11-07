@@ -27,27 +27,6 @@
 
 --------------------------------------
 
-<html>
-<head>
-<style>
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
-
-  .social-icons {
-    display: flex;
-    align-items: center;
-  }
-
-  .social-icons a {
-    margin: 0 10px;
-  }
-</style>
-</head>
-<body>
 <div class="container">
   <div class="social-icons">
     <a href="https://simpleicons.now.sh/twitch/6366f1">
@@ -68,7 +47,3 @@
     <a href="https://instagra.com/anawhty">
       <img align="left" alt "Ana's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
     </a>
-  </div>
-</div>
-</body>
-</html>
