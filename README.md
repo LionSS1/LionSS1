@@ -31,7 +31,7 @@
 <head>
 </head>
 <body>
-    <table style="margin:  10px;">
+    <table style="margin:  left;">
         <tr>
             <td>
                 <a href="https://simpleicons.now.sh/twitch/6366f1">
