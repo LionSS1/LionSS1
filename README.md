@@ -26,16 +26,7 @@
  <p align="center"> Hi, I’m @Lion
 
 --------------------------------------
-<html>
-<head>
-<style>
-  body {
-    text-align: center;
-  }
-  table {
-    margin: 0 auto;
-  }
-</style>
+
 </head>
 <body>
     <table>
