@@ -27,6 +27,14 @@
 
 --------------------------------------
 
+<html>
+<head>
+    <style>
+        table {
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
 </head>
 <body>
     <table>
@@ -36,7 +44,7 @@
                     <img align="center" alt="Twitch" width="20px" src="https://simpleicons.vercel.app/twitch/6366f1" />
                 </a>
                 <a href="https://simpleicons.vercel.app/instagram/6366f1">
-                    <img align="left" alt="Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
+                    <img align="left" alt "Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
                 </a>
                 <a href="https://simpleicons.vercel.app/twitter/6366f1">
                     <img align="left" alt="Twitter" width="20px" src="https://simpleicons.vercel.app/twitter/6366f1" />
@@ -55,6 +63,4 @@
     </table>
 </body>
 </html>
-
-
 
