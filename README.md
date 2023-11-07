@@ -38,6 +38,26 @@
     <img alt="Twitch" width="20px" src="https://simpleicons.vercel.app/twitch/6366f1" />
   </a>
 </p>
+<p align='center'>
+  <a href="https://simpleicons.now.sh/twitch/6366f1">
+    <img alt="Twitch" width="20px" src="https://simpleicons.vercel.app/twitch/6366f1" />
+  </a>
+</p>
+<p align='center'>
+  <a href="https://simpleicons.now.sh/twitch/6366f1">
+    <img alt="Twitch" width="20px" src="https://simpleicons.vercel.app/twitch/6366f1" />
+  </a>
+</p>
+<p align='center'>
+  <a href="https://simpleicons.now.sh/twitch/6366f1">
+    <img alt="Twitch" width="20px" src="https://simpleicons.vercel.app/twitch/6366f1" />
+  </a>
+</p>
+<p align='center'>
+  <a href="https://simpleicons.now.sh/twitch/6366f1">
+    <img alt="Twitch" width="20px" src="https://simpleicons.vercel.app/twitch/6366f1" />
+  </a>
+</p>
 
 
 
