@@ -49,8 +49,6 @@
 <a href="https://simpleicons.vercel.app/youtube/6366f1">
   <img align="left" alt="YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
 </a>
-<a href="https://instagra.com/anawhty">
-  <img align="left" alt="Ana's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
-</a>
+
 
 
