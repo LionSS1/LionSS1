@@ -31,7 +31,7 @@
   <tr>
     <td align="center">
       <a href="https://discord.com/users/477264879267348491">
-        <img align="center" alt="Twitch" width="20px" src="https://simpleicons.vercel.app/discord/6366f1" />
+        <img align="center" alt="Discord" width="20px" src="https://simpleicons.vercel.app/discord/6366f1" />
       </a>
     </td>
     <td align="center">
