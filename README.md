@@ -39,7 +39,7 @@
       </a>
     </td>
    <td align="center">
-      <a href="https://simpleicons.vercel.app/tiktok/6366f1">
+      <a href="https://www.tiktok.com/@lionfivem">
         <img align="center" alt "TikTok" width="20px" src="https://simpleicons.vercel.app/tiktok/6366f1" />
       </a>
     </td>
