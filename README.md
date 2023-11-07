@@ -27,7 +27,7 @@
 
 --------------------------------------
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center">
       <a href="https://simpleicons.now.sh/twitch/6366f1">
@@ -46,7 +46,7 @@
     </td>
     <td align="center">
       <a href="https://simpleicons.vercel.app/tiktok/6366f1">
-        <img align="center" alt="TikTok" width="20px" src="https://simpleicons.vercel.app/tiktok/6366f1" />
+        <img align="center" alt "TikTok" width="20px" src="https://simpleicons.vercel.app/tiktok/6366f1" />
       </a>
     </td>
     <td align="center">
@@ -61,4 +61,5 @@
     </td>
   </tr>
 </table>
+
 
