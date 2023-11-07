@@ -5,7 +5,7 @@
 <head>
 </head>
 <body>
-    <table style="margin: 0 auto;">
+    <table style="margin: 10 auto;">
         <tr>
             <td>
                 <a href="https://simpleicons.now.sh/twitch/6366f1">
