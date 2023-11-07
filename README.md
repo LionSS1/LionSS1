@@ -4,7 +4,7 @@
 <head>
 </head>
 <body>
-    <table style="margin: 10 auto;">
+    <table style="margin: 10px auto; border: 1px solid blue;">
         <tr>
             <td>
                 <a href="https://simpleicons.now.sh/twitch/6366f1">
