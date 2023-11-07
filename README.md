@@ -33,7 +33,6 @@
 
 --------------------------------------
 
-
 <div align="center">
   <a href="https://simpleicons.now.sh/twitch/6366f1">
     <img align="left" alt="Twitch" width="20px" src="https://simpleicons.vercel.app/twitch/6366f1" />
@@ -51,7 +50,6 @@
     <img align="left" alt="YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
   </a>
 </div>
-
 
 
 
