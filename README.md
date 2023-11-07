@@ -36,7 +36,7 @@
 <p align="center">
   <a href="https://simpleicons.vercel.app/twitter/6366f1">
     <img align="center" alt="Twitter" width="20px" src="https://simpleicons.vercel.app/twitter/6366f1" />
-  </a>
+
 <p align="center">
   <a href="https://simpleicons.vercel.app/tiktok/6366f1">
     <img align="center" alt="TikTok" width="20px" src="https://simpleicons.vercel.app/tiktok/6366f1" />
