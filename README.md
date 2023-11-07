@@ -34,7 +34,7 @@
         <img align="center" alt="Discord" width="20px" src="https://simpleicons.vercel.app/discord/6366f1" />
       </a>
     <td align="center">
-      <a href="https://simpleicons.vercel.app/youtube/6366f1">
+      <a href="https://www.youtube.com/channel/UCmxl6u47AZmJC1x7RC_JdCw">
         <img align="center" alt="YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
       </a>
     </td>
