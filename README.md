@@ -33,22 +33,36 @@
 
 --------------------------------------
 <div align="center">
-  <a href="https://simpleicons.now.sh/twitch/6366f1">
+  <style>
+    .icon-link {
+      display: inline-block;
+      margin: 5px; 
+      text-decoration: none;
+      border-bottom: none;
+    }
+  </style>
+
+  <a class="icon-link" href="https://simpleicons.now.sh/twitch/6366f1">
     <img alt="Twitch" width="20px" src="https://simpleicons.vercel.app/twitch/6366f1" />
   </a>
-  <a href="https://simpleicons.vercel.app/instagram/6366f1">
+
+  <a class="icon-link" href="https://simpleicons.vercel.app/instagram/6366f1">
     <img alt="Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
   </a>
-  <a href="https://simpleicons.vercel.app/twitter/6366f1">
+
+  <a class="icon-link" href="https://simpleicons.vercel.app/twitter/6366f1">
     <img alt="Twitter" width="20px" src="https://simpleicons.vercel.app/twitter/6366f1" />
   </a>
-  <a href="https://simpleicons.vercel.app/tiktok/6366f1">
+
+  <a class="icon-link" href="https://simpleicons.vercel.app/tiktok/6366f1">
     <img alt="TikTok" width="20px" src="https://simpleicons.vercel.app/tiktok/6366f1" />
   </a>
-  <a href="https://simpleicons.vercel.app/youtube/6366f1">
+
+  <a class="icon-link" href="https://simpleicons.vercel.app/youtube/6366f1">
     <img alt="YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
   </a>
-  <a href="https://instagra.com/anawhty">
+
+  <a class="icon-link" href="https://instagra.com/anawhty">
     <img alt="Ana's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
   </a>
 </div>
