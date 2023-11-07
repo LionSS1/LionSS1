@@ -33,20 +33,20 @@
 
 --------------------------------------
 <a href="https://simpleicons.now.sh/twitch/6366f1">
-  <img align="center" alt="Twitch" width="20px" src="https://simpleicons.vercel.app/twitch/6366f1" />
+  <img align="right" alt="Twitch" width="20px" src="https://simpleicons.vercel.app/twitch/6366f1" />
 </a>
 <a href="https://simpleicons.vercel.app/instagram/6366f1">
-  <img align="left" alt="Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
+  <img align="right" alt="Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
 </a>
 <a href="https://simpleicons.vercel.app/twitter/6366f1">
-  <img align="left" alt="Twitter" width="20px" src="https://simpleicons.vercel.app/twitter/6366f1" />
+  <img align="right" alt="Twitter" width="20px" src="https://simpleicons.vercel.app/twitter/6366f1" />
 </a>
 <a href="https://simpleicons.vercel.app/tiktok/6366f1">
-  <img align="left" alt="TikTok" width="20px" src="https://simpleicons.vercel.app/tiktok/6366f1" />
+  <img align="right" alt="TikTok" width="20px" src="https://simpleicons.vercel.app/tiktok/6366f1" />
 </a>
 <a href="https://simpleicons.vercel.app/youtube/6366f1">
-  <img align="left" alt="YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
+  <img align="right" alt="YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
 </a>
 <a href="https://instagra.com/anawhty">
-  <img align="left" alt="Ana's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
+  <img align="right" alt="Ana's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
 </a>
