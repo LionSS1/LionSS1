@@ -32,7 +32,6 @@
  <p align="center"> Hi, I’m @Lion
 
 --------------------------------------
-<!DOCTYPE html>
 <table>
         <tr>
             <td>
