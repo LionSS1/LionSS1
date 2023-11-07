@@ -54,5 +54,11 @@
         <img align="center" alt="YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://instagra.com/anawhty">
+        <img align="center" alt="Ana's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
+      </a>
+    </td>
   </tr>
 </table>
+
