@@ -33,7 +33,7 @@
   </a>
 <p align="center">
   <a href="https://simpleicons.vercel.app/instagram/6366f1">
-    <img align="left" alt="Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
+    <img align="center" alt="Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
   </a>
   <a href="https://simpleicons.vercel.app/twitter/6366f1">
     <img align="left" alt="Twitter" width="20px" src="https://simpleicons.vercel.app/twitter/6366f1" />
