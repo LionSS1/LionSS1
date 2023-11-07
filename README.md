@@ -32,6 +32,8 @@
  <p align="center"> Hi, I’m @Lion
 
 --------------------------------------
+<!DOCTYPE html>
+
 <html>
 <head>
     <style>
