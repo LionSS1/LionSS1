@@ -1,6 +1,5 @@
 <p align='center'>
   <b>Hi 👋, I'm Lion</b><br>
-<!DOCTYPE html>
 <html>
 <head>
 </head>
