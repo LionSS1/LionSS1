@@ -2,14 +2,9 @@
   <b>Hi 👋, I'm Lion</b><br>
 <html>
 <head>
-<style>
-    .blue-border {
-        border: 1px solid blue;
-    }
-</style>
 </head>
 <body>
-    <table class="blue-border" style="margin: 10px auto;">
+    <table style="margin: 10 auto;">
         <tr>
             <td>
                 <a href="https://simpleicons.now.sh/twitch/6366f1">
@@ -34,7 +29,7 @@
         </tr>
     </table>
 </body>
-</html>
+
 
 
 
