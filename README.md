@@ -1,5 +1,32 @@
 <p align='center'>
   <b>Hi 👋, I'm Lion</b><br>
+
+```py
+
+◦ They fear the Lion!
+
+◦ Lion @github
+
+```
+```csharp
+
+• 🤖 Software Automation.
+• 👨🏻‍💻 Learning Web development.
+• 🌟 Main languages: C# and C++.
+```
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+--------------------------------------
+										
+ <p align="center"> Hi, I’m @Lion
+
+--------------------------------------
+
 <html>
 <head>
 </head>
@@ -29,37 +56,6 @@
         </tr>
     </table>
 </body>
-
-
-
-
-
-```py
-
-◦ They fear the Lion!
-
-◦ Lion @github
-
-```
-```csharp
-
-• 🤖 Software Automation.
-• 👨🏻‍💻 Learning Web development.
-• 🌟 Main languages: C# and C++.
-```
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
---------------------------------------
-										
- <p align="center"> Hi, I’m @Lion
-
---------------------------------------
-
 
 
 
