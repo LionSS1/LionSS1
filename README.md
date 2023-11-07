@@ -36,7 +36,6 @@
 <p align="center">
   <a href="https://simpleicons.vercel.app/twitter/6366f1">
     <img align="center" alt="Twitter" width="20px" src="https://simpleicons.vercel.app/twitter/6366f1" />
-
 <p align="center">
   <a href="https://simpleicons.vercel.app/tiktok/6366f1">
     <img align="center" alt="TikTok" width="20px" src="https://simpleicons.vercel.app/tiktok/6366f1" />
@@ -44,9 +43,7 @@
 <p align="center">
   <a href="https://simpleicons.vercel.app/youtube/6366f1">
     <img align="center" alt="YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
-  </a>
 <p align="center">
   <a href="https://instagra.com/anawhty">
     <img align="center" alt="Ana's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
-  </a>
 </p>
