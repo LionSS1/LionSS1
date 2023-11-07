@@ -26,14 +26,12 @@
  <p align="center"> Hi, I’m @Lion
 
 --------------------------------------
-
-<!DOCTYPE html>
 <html>
 <head>
 </head>
 <body>
     <div style="text-align: center;">
-        <table style="margin: auto;">
+        <table style="margin: auto; margin-left: 20px;">
             <tr>
                 <td>
                     <a href="https://simpleicons.now.sh/twitch/6366f1">
