@@ -26,9 +26,7 @@
  <p align="center"> Hi, I’m @Lion
 
 --------------------------------------
-<html>
-<head>
-</head>
+
 <body>
     <div style="text-align: center;">
         <table style="margin: auto; margin-left: 20px;">
@@ -55,8 +53,6 @@
                 </td>
             </tr>
         </table>
-    </div>
-</body>
-</html>
+
 
 
