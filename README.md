@@ -32,11 +32,3 @@
  <p align="center"> Hi, I’m @Lion
 
 --------------------------------------
-https://simpleicons.now.sh/twitch/6366f1
-https://simpleicons.vercel.app/instagram/6366f1
-https://simpleicons.vercel.app/twitter/6366f1
-https://simpleicons.vercel.app/tiktok/6366f1
-https://simpleicons.vercel.app/youtube/6366f1
-<a href="https://instagra.com/anawhty">
-  <img align="left" alt="Ana's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
-</a>
