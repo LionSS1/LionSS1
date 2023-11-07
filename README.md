@@ -27,7 +27,6 @@
 
 --------------------------------------
 
-
 <table align="center">
   <tr>
     <td align="center">
@@ -52,7 +51,8 @@
     </td>
     <td align="center">
       <a href="https://simpleicons.vercel.app/youtube/6366f1">
-        <img align="center" alt="YouTube" width="20px" src="https
-
-
-
+        <img align="center" alt="YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
+      </a>
+    </td>
+  </tr>
+</table>
