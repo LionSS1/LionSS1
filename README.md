@@ -41,7 +41,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://simpleicons.vercel.app/tiktok/6366f1">
-    <img align="center" alt="TikTok" width="20px" src="https://simpleicons.vercel.app/tiktok/6366f1" />
+    <img align="center" alt="TikTok" width="20px" src="https://simpleicons.vercel.app/tiktok/6366f1" 
   </a>
   &nbsp;&nbsp;
   <a href="https://simpleicons.vercel.app/youtube/6366f1">
