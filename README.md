@@ -33,10 +33,9 @@
       <a href="https://discord.com/users/477264879267348491">
         <img align="center" alt="Discord" width="20px" src="https://simpleicons.vercel.app/discord/6366f1" />
       </a>
-    </td>
     <td align="center">
-      <a href="https://simpleicons.vercel.app/instagram/6366f1">
-        <img align="center" alt="Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/6366f1" />
+      <a href="https://simpleicons.vercel.app/youtube/6366f1">
+        <img align="center" alt="YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
       </a>
     </td>
     <td align="center">
@@ -47,11 +46,6 @@
     <td align="center">
       <a href="https://simpleicons.vercel.app/tiktok/6366f1">
         <img align="center" alt "TikTok" width="20px" src="https://simpleicons.vercel.app/tiktok/6366f1" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://simpleicons.vercel.app/youtube/6366f1">
-        <img align="center" alt="YouTube" width="20px" src="https://simpleicons.vercel.app/youtube/6366f1" />
       </a>
     </td>
   </tr>
