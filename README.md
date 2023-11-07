@@ -34,8 +34,10 @@
 --------------------------------------
 
 
+</div>
 
 
+</div>
 
  <div align="center">
   <a href="https://simpleicons.now.sh/twitch/6366f1">
