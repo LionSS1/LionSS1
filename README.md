@@ -8,12 +8,12 @@
 ◦ Lion @github
 
 ```
-```csharp
+<div style="background-color: #f0f0f0; border: 2px solid #ccc; border-radius: 10px; padding: 10px;">
+  • 🤖 Software Automation.
+  • 👨🏻‍💻 Learning Web development.
+  • 🌟 Main languages: C# and C++.
+</div>
 
-• 🤖 Software Automation.
-• 👨🏻‍💻 Learning Web development.
-• 🌟 Main languages: C# and C++.
-```
 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
