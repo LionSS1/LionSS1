@@ -8,11 +8,12 @@
 ◦ Lion @github
 
 ```
-<div style="background-color: #f0f0f0; border: 2px solid #ccc; border-radius: 10px; padding: 10px;">
-  • 🤖 Software Automation.
-  • 👨🏻‍💻 Learning Web development.
-  • 🌟 Main languages: C# and C++.
-</div>
+```csharp
+
+• 🤖 Software Automation.
+• 👨🏻‍💻 Learning Web development.
+• 🌟 Main languages: C# and C++.
+```
 
 
 <div align="center">
