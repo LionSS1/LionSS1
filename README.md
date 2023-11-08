@@ -20,7 +20,6 @@
        alt="snake" /></a>
 </div>
 
-https://simpleicons.vercel.app/circuitverse/000
 --------------------------------------
 										
  <p align="center"> Hi, I’m @Lion
